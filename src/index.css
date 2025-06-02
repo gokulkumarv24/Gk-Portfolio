@@ -160,3 +160,10 @@
   padding: 0;
   text-align: center;
 }
+
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
