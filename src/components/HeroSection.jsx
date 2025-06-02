@@ -13,7 +13,7 @@ export const HeroSection = () => {
                     {/* Profile Image */}
                     <div className="opacity-0 animate-fade-in mb- flex justify-center">
                         <img
-                            src="public/profile.jpeg"
+                            src="/profile.jpeg"
                             alt="Gokul Kumar V"
                             className="w-80 h-80 object-cover rounded-full border-4 border-primary/20 shadow-xl animate-float"
                         />
